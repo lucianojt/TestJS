@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "jest": "^23.6.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "jest": "^23.6.0",
     "nodemon": "^1.18.6"
   },
   "scripts": {
